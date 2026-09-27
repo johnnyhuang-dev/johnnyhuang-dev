@@ -1,7 +1,7 @@
 ## Hi World, I'm Johnny Huang
 
-🎓 Management Engineering @ University of Waterloo  
-🏢 Ops & Production Systems Co-op @ Postalgia  
+🎓 Management Engineering & Data @ University of Waterloo  
+🏢 Prev. Ops & Production Automation Intern @ Postalgia  
 📍 Toronto, Canada  
 
 ---
@@ -12,7 +12,7 @@ I’m a Management Engineering student focused on systems thinking, data, and op
 
 My work sits at the intersection of:
 - Data processing & automation  
-- Operations systems in production environments  
+- Data/AI systems in production environments  
 - Software-driven workflow execution  
 
 I enjoy breaking down complex systems into structured, efficient, and scalable processes.
@@ -21,24 +21,20 @@ I enjoy breaking down complex systems into structured, efficient, and scalable p
 
 ## Experience
 
-### 🏢 Postalgia — Operations & Production Systems (Co-op)
+### 🏢 Postalgia — Operations & Production Automation (Internship)
 
-I work within a high-throughput production environment that uses automated “handwriting” robots to generate and process large volumes of physical mail for clients (political, nonprofit, and commercial organizations).
+I work within a high-throughput production environment that uses automated handwriting robots to generate and process large volumes of physical mail for clients (political, nonprofit, and commercial organizations).
 
 **Core responsibilities:**
-- Operate and coordinate automated production machines handling thousands of daily outputs  
+- Develop a Python .exe app to automate the management of defect reworks
+- Contribute to 80+ pages of technical documentation
+- Operate and coordinate automated production robots handling thousands of daily outputs  
 - Prepare and process input data by chunking CSV files into machine-ready batches  
-- Load and assign jobs to distributed production machines via internal software tools  
 - Perform QA checks on printed letters, envelopes, and outputs before shipment  
-- Maintain machine readiness (ink systems, paper feeds, operational setup)  
-- Execute structured testing workflows for production validation (e.g. staged machine job execution)  
-- Support packaging, sealing, and stamping operations  
-- Assist engineers and managers with documentation of production workflows  
-- Communicate and escalate technical or mechanical issues during production  
-- Contribute to workflow stability and process reliability in a high-volume environment  
+- Execute structured testing workflows for production validation (e.g. staged machine job execution)   
 
 **Focus:**
-Ensuring accuracy, reliability, and throughput in a semi-automated production pipeline.
+Automating processes and workflows with software while ensuring accuracy, reliability, and throughput in a semi-automated production pipeline.
 
 ---
 
@@ -69,21 +65,14 @@ Ensuring accuracy, reliability, and throughput in a semi-automated production pi
 
 ---
 
-### 🚀 Performant (Startup - Health & Fitness App)
-- Growth and user acquisition strategy execution  
-- Testing outreach systems to acquire first 100 paying users organically  
-- Working across product, marketing, and execution layers  
-
----
-
 ## Technical Skills
 
 **Languages & Tools:**
 - Python (data processing, scripting, automation)  
 - SQL (data querying & analysis)  
 - Excel (advanced modeling, DSS systems)  
-- Tableau (data visualization)  
-- Git & GitHub  
+- Power BI / Tableau (data visualization)  
+- Git & GitHub
 
 **Concepts:**
 - Data pipelines & batch processing  
