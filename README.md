@@ -19,7 +19,7 @@ I enjoy breaking down complex systems into structured, efficient, and scalable p
 
 ---
 
-## Experience
+## Most Recent Experience
 
 ### 🏢 Postalgia — Operations & Production Automation (Internship)
 
@@ -30,31 +30,47 @@ I work within a high-throughput production environment that uses automated handw
 - Contribute to 80+ pages of technical documentation
 - Operate and coordinate automated production robots handling thousands of daily outputs  
 - Prepare and process input data by chunking CSV files into machine-ready batches  
-- Perform QA checks on printed letters, envelopes, and outputs before shipment  
-- Execute structured testing workflows for production validation (e.g. staged machine job execution)   
+- Perform QA checks on printed letters, envelopes, and outputs before shipment     
 
 **Focus:**
-Automating processes and workflows with software while ensuring accuracy, reliability, and throughput in a semi-automated production pipeline.
+Automating workflows with software while ensuring accuracy, reliability, and throughput in a semi-automated production pipeline.
 
 ---
 
 ## Projects
 
-### 📊 Data & Analytics Projects
+### 📊 Data Engineering Projects
+
+**Real-Time Stock Market Pipeline (Python, Power BI, PostgreSQL, Kafka, Spark, Docker)**
+- Extracted and transformed real-time stock market data with Python  
+- Loaded data to PostgreSQL server after streaming and processing with Kafka and Spark  
+- Stress-tested to sustain 11,000+ events/sec throughput
+
+**NYC311 Service ETL Pipeline (Python, Power BI, PostgreSQL, MS Azure, Airflow, Terraform, Docker)**
+- Extracted and transformed RESTful API data with Python
+- Loaded data to MS Azure blob storage and pgSQL server
+- Orchestrated weekly pipeline with Airflow (astro) while managing infrastructure with Terraform
+
+**Triplens Global Countries Explorer ELT Pipeline (Python, Power BI, Airflow, Snowflake, dbt, MinIO S3, Docker)**
+- Used Python for API extraction for loading into MinIO S3 cloud server  
+- Loaded data to Snowflake DB to be transformed with dbt  
+- Orchestrated monthly pipeline with Airflow (astro) before visualizing data with Power BI
+
+### 📊 Data Analytics Projects
 
 **World Layoffs Analysis (Python + SQL + Tableau)**
-- Built a structured dataset for global layoffs analysis  
-- Performed exploratory data analysis using SQL and Python  
-- Created visual dashboards in Tableau to identify trends  
+- Cleaned a large API dataset for global layoffs analysis using Python and SQL   
+- Performed exploratory data analysis with MySQL  
+- Created interactive dashboards in Tableau to identify trends
 
 **System Log Analyzer (Python)**
 - Built a simple log parsing system to extract and analyze system events  
 - Focused on pattern detection and structured data extraction  
 
 **Supply Chain & Inventory Optimization (Python)**
-- Modeled inventory flow and optimization logic  
+- Modelled inventory flow and optimization logic  
 - Simulated demand and supply constraints using Python  
-- Built with AI-assisted development tools (Claude)
+- Built with AI-assisted development tools (Claude, MS Copilot)
 
 ---
 
