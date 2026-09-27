@@ -39,7 +39,7 @@ Automating workflows with software while ensuring accuracy, reliability, and thr
 
 ## Projects
 
-### 📊 Data Engineering Projects
+### ⚙️ Data Engineering Projects
 
 **Real-Time Stock Market Pipeline (Python, Power BI, PostgreSQL, Kafka, Spark, Docker)**
 - Extracted and transformed real-time stock market data with Python  
@@ -74,7 +74,7 @@ Automating workflows with software while ensuring accuracy, reliability, and thr
 
 ---
 
-### 🧠 Current Learning
+### 🧠 Currently Learning
 - Retrieval-Augmented Generation (RAG)
 - LangChain frameworks
 - Data pipelines & applied AI systems
@@ -83,17 +83,17 @@ Automating workflows with software while ensuring accuracy, reliability, and thr
 
 ## Technical Skills
 
-**Languages & Tools:**
-- Python (data processing, scripting, automation)  
-- SQL (data querying & analysis)  
-- Excel (advanced modeling, DSS systems)  
-- Power BI / Tableau (data visualization)  
+**Main Languages & Tools:**
+- Python
+- SQL (MySQL, PostgreSQL)  
+- Excel (pivot tables, VBA macros, etc.)  
+- Power BI / Tableau 
 - Git & GitHub
+- Microsoft Azure
 
 **Concepts:**
 - Data pipelines & batch processing  
 - Workflow automation  
-- Operational systems design  
 - Data analysis & visualization  
 
 ---
@@ -108,9 +108,9 @@ I’m seeking co-op and internship opportunities in:
 - Applied AI / Data Infrastructure  
 
 Where I can:
-- Build and maintain real-world systems  
+- Build and maintain real-world software systems  
 - Work with data pipelines and scalable processes  
-- Contribute to technical teams in structured environments  
+- Contribute to data and AI production environments  
 
 ---
 
@@ -118,9 +118,3 @@ Where I can:
 
 📫 huangjohnny22@gmail.com  
 🔗 https://www.linkedin.com/in/johnny-huang-387910304/
-
----
-
-## Focus
-
-I’m particularly interested in how data, automation, and operations combine to build efficient real-world systems at scale.
