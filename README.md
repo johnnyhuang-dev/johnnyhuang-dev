@@ -47,12 +47,12 @@ Automating workflows with software while ensuring accuracy, reliability, and thr
 - Stress-tested to sustain 11,000+ events/sec throughput
 
 **NYC311 Service ETL Pipeline (Python, Power BI, PostgreSQL, MS Azure, Airflow, Terraform, Docker)**
-- Extracted and transformed RESTful API data with Python
+- Extracted and transformed NYC311 service reporting data with Python
 - Loaded data to MS Azure blob storage and pgSQL server
 - Orchestrated weekly pipeline with Airflow (astro) while managing infrastructure with Terraform
 
 **Triplens Global Countries Explorer ELT Pipeline (Python, Power BI, Airflow, Snowflake, dbt, MinIO S3, Docker)**
-- Used Python for API extraction for loading into MinIO S3 cloud server  
+- Used Python for RESTful API extraction for loading into MinIO S3 cloud server  
 - Loaded data to Snowflake DB to be transformed with dbt  
 - Orchestrated monthly pipeline with Airflow (astro) before visualizing data with Power BI
 
@@ -102,9 +102,9 @@ Automating workflows with software while ensuring accuracy, reliability, and thr
 
 I’m seeking co-op and internship opportunities in:
 
-- Data Engineering  
-- Backend / Systems Engineering  
+- Data Engineering
 - Data Analytics / Business Intelligence  
+- Backend / Systems Engineering  
 - Applied AI / Data Infrastructure  
 
 Where I can:
